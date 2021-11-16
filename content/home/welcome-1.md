@@ -3,7 +3,7 @@ widget: slider
 widget_id: カルーセルのテスト
 headless: true
 weight: 10
-active: true
+active: false
 design:
   columns: "1"
   background:
