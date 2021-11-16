@@ -3,7 +3,7 @@ widget: slider
 widget_id: Carousel
 headless: true
 weight: 5
-active: false
+active: true
 design:
   columns: "1"
   background:
