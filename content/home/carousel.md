@@ -1,5 +1,5 @@
 ---
-widget: silder
+widget: slider
 widget_id: Carousel
 headless: true
 weight: 5
