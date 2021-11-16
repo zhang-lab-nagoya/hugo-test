@@ -1,6 +1,6 @@
 ---
 widget: slider
-widget_id: Welcome!
+widget_id: カルーセルのテスト
 headless: true
 weight: 10
 active: true
