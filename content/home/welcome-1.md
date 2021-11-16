@@ -1,6 +1,6 @@
 ---
 widget: slider
-widget_id: カルーセルのテスト
+widget_id: Carousel
 headless: true
 weight: 10
 active: false
